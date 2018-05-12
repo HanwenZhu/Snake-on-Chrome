@@ -1,0 +1,21 @@
+{
+	"name": "Snake on Chrome",
+	"version": "1.0",
+	"description": "Play snake everywhere - on Chrome!",
+	"browser_action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"16": "images/snake_icon16.png",
+			"32": "images/snake_icon32.png",
+			"48": "images/snake_icon48.png",
+			"128": "images/snake_icon128.png"
+		}
+	},
+	"icons": {
+		"16": "images/snake_icon16.png",
+		"32": "images/snake_icon32.png",
+		"48": "images/snake_icon48.png",
+		"128": "images/snake_icon128.png"
+	},
+	"manifest_version": 2
+}
